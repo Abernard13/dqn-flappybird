@@ -8,4 +8,6 @@ dependencies = [
     "flappy-bird-gymnasium>=0.4.0",
     "pyyaml>=6.0.3",
     "tensorflow>=2.20.0",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
 ]
